@@ -22,7 +22,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Crossplatform Mobile App',
+    title: 'Mobile App',
     Svg: require('@site/static/img/three_parts.svg').default,
     description: (
       <>

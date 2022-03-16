@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'BLE LoRa',
-  tagline: 'BLE LoRa Device Development',
+  tagline: 'Demonstration, Tools, and Standards for BLE & LoRa Capable Devices',
   url: 'https://blelora.org',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -45,7 +45,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'welcome',
             position: 'left',
             label: 'Docs',
           },
@@ -64,7 +64,7 @@ const config = {
             items: [
               {
                 label: 'Start Here',
-                to: '/docs/intro',
+                to: '/docs/welcome',
               },
             ],
           },
