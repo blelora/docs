@@ -33,7 +33,7 @@ blelora dfu serial --package https://github.com/blelora/rak4631-firmware/release
 
 
 ## Update Application Firmware
-This step will update the application firmware which includes the features described [here](/docs/devices/rak4631/capabilities). 
+This step will update the application firmware which includes the features described [here](/docs/devices/rak4631/capabilities).   
 Steps: 
 1. Make sure you have the device plugged into your computer via a USB cable. 
 2. If you just updated the bootloader in the step above, make sure to first quickly double press the reset button on the device. You will see the green light come on if you did it correctly. 
