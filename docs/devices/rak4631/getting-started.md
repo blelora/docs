@@ -28,7 +28,7 @@ Steps:
 1. Make sure you have the device plugged into your computer via a USB cable. 
 2. Enter the command below in a terminal to initiate the update. If the process errors, just try again until you see the progress bar get all the way to 100%.
 ```
-blelora dfu serial --package https://github.com/blelora/rak4631-firmware/releases/download/0.2.0/WisCore_RAK4631_Board_Bootloader.zip --touch 1200
+blelora dfu serial --package https://github.com/blelora/rak4631-firmware/releases/download/0.2.0/WisCore_RAK4631_Board_Bootloader_v0.4.2.zip --touch 1200
 ```
 
 
