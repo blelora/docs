@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Getting Started
+# RAK4630 - Getting Started 
 
 The [RAK4631 WisBlock module](https://store.rakwireless.com/products/rak4631-lpwan-node) is the first device supported by the BLE LoRa project. It includes a Nordic nRF52840 MCU with BLE 5.0 paired to the latest LoRa® transceivers from Semtech, the SX126x series. Read about the current capabilities of the firmware [here](/docs/devices/rak4631/capabilities).
 

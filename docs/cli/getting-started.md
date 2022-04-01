@@ -2,10 +2,10 @@
 sidebar_position: 2
 ---
 
-# Getting Started 
+# BLE LoRa CLI Utility 
 
 The BLE LoRa command line utility allows users to easily update the firmware on their device.
-It can be used on Mac OS, Windows, and Linux. Learn how to install it below.
+It can be used on Mac OS, Windows, and Linux. Learn how to install it below. After you have installed the BLE LoRa CLI, follow [this](/docs/devices/rak4631/getting-started) guide next, to update your device firmware.
 
 ## Install
 
