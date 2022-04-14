@@ -6,10 +6,6 @@ sidebar_position: 1
 
 The [RAK4631 WisBlock module](https://store.rakwireless.com/products/rak4631-lpwan-node) is the first device supported by the BLE LoRa project. It includes a Nordic nRF52840 MCU with BLE 5.0 paired to the latest LoRa® transceivers from Semtech, the SX126x series. Read about the current capabilities of the firmware [here](/docs/devices/rak4631/capabilities).
 
-:::info
-The current firmware is only compatible with the US915 version of the RAK4631 module and will therefore only work in the US915 region.
-:::
-
 ## First Steps
 If this is your first time using BLE LoRa firmware for this device, then follow all the steps below. 
 If you are coming back to update your device firmware to a newer version, then you can skip to the [application firmware 
@@ -39,7 +35,7 @@ Steps:
 2. If you just updated the bootloader in the step above, make sure to first quickly double press the reset button on the device. You will see the green light come on if you did it correctly. 
 3. Enter the command below in a terminal to initiate the update. If the process errors, just try again until you see the progress bar get all the way to 100%. 
 ```
-blelora dfu serial --package https://github.com/blelora/rak4631-firmware/releases/download/0.2.0/rak4631-firmware.zip --touch 1200
+blelora dfu serial --package https://github.com/blelora/rak4631-firmware/releases/download/0.3.0/rak4631-firmware.zip --touch 1200
 ```
 
 ## Next Steps

@@ -40,7 +40,7 @@ blelora
 ```
 You should see the following help menu displayed if you have it correctly installed.
 ```
-blelora 0.1.0
+blelora 0.1.2
 Common options
 
 USAGE:
